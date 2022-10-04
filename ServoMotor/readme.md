@@ -1,3 +1,4 @@
+Author: Michal Rinott
 # Knob
 
 Control the position of a RC (hobby) [servo motor](http://en.wikipedia.org/wiki/Servo_motor#RC_servos) with your Arduino and a potentiometer.
