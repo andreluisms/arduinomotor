@@ -12,4 +12,4 @@ Changes: Removal of pushbuttons and control via keyboard g and c keys.
 * hook-up wires
 
 ## Circuit
-![](images/steppermotor.png)
+![](images/stepper.png)
