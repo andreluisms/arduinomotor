@@ -1,8 +1,8 @@
 Author: Andre Lumesi
 
-Adapted from example: BrincandoComIdeias, Using the stepper motor
+Based in example: BrincandoComIdeias, Using the stepper motor
 
-LINK do exemplo original:    https://www.youtube.com/brincandocomideias ; https://cursodearduino.net/
+LINK of source example:    https://www.youtube.com/brincandocomideias ; https://cursodearduino.net/
 
 DATA:    04/09/2022
 
